@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         AI提示词管理器
 // @namespace    https://github.com/shiroe120/ai-prompt-manager
+// @name:en      AI Prompt Manager
 // @version      3.0.0
 // @description  专为AI网页端定制的提示词管理工具，支持分屏独立编辑及域名白名单联动
+// @description:en  A highly efficient browser script tailored for AI creators and power users to quickly insert prompts with a right-click.
 // @author       shiroe120
 // @match        *://*/*
 // @grant        GM_setValue
