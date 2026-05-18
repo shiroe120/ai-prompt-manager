@@ -1,9 +1,9 @@
-# AI Prompt Dashboard | AI 提示词右键随身看板
+# AI Prompt Manager | AI 提示词右键随身看板
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Tampermonkey-purple.svg)](https://www.tampermonkey.net/)
 
-一个专为 AI 创作者和重度用户打造的浏览器高效插件。它能在你常用的各大 AI 网页端输入框中，通过右键点击瞬间唤醒你的私房提示词（Prompt）库，一键插入，彻底告别繁琐的复制粘贴。
+一个专为 AI 创作者和重度用户打造的浏览器高效插件。它能在你常用的各大 AI 网页端输入框中，通过右键点击瞬间唤醒你的提示词（Prompt）库，一键插入，彻底告别繁琐的复制粘贴。
 
 ---
 
@@ -40,7 +40,7 @@
 ## 安装指南
 
 1.  请确保你的浏览器已安装 Tampermonkey（油猴）扩展插件。
-2.  前往 Greasy Fork 脚本商店（请在此处替换为你真实的 Greasy Fork 链接）。
+2.  [前往 Greasy Fork 脚本商店](https://greasyfork.org/zh-CN/scripts/578669-ai%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%AE%A1%E7%90%86%E5%99%A8)。
 3.  点击页面上的绿色的“安装此脚本”按钮。
 4.  刷新你的 AI 网页，即可立即开始体验！
 
