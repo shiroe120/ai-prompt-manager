@@ -17,6 +17,11 @@
 
 ---
 
+## 预览
+![iimage1](./image1.png)
+![iimage1](./image2.png)
+![iimage1](./image3.png)
+
 ## 默认预设支持的 AI 平台
 
 本插件在安装后，默认已为你配置好了国内外主流 AI 平台的生态圈：
