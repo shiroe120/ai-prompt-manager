@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         常用语右键插入工具（AI提示词看板版）
+// @name         AI提示词管理器
 // @namespace    https://github.com/shiroe120/ai-prompt-manager
 // @version      3.0.0
 // @description  专为AI网页端定制的提示词管理工具，支持分屏独立编辑及域名白名单联动
